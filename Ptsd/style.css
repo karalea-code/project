@@ -1,0 +1,99 @@
+
+body {
+background-color: #5af395;
+}
+h1 {
+  font-family: 'Allerta Stencil';
+  text-align: center;
+  color: #145215;
+  text-shadow: 2px 2px #0b860c;
+}
+.navbar{
+  background-image: linear-gradient(
+    to right,
+    #b279e9,
+    #1fbff5,
+    #b8b5f5,
+    #f1c869,
+    #b3edb4
+  );
+}
+.navbar li {
+  text-decoration: none;
+  text-shadow: 2px 2px #19173d;
+}
+.nav-link li{
+  height: 44px;
+  margin-right: 70px;
+  display: inline;
+  list-style: none;
+  opacity: 1;
+}
+nav li:first-child {
+  margin-left: 51.6px;
+}
+.reference {
+  font-family: 'Josefin Slab';font-size: 10px;
+}
+div.videos > h2 {
+  font-family: 'Allerta Stencil';
+  text-align: center;
+}
+.causes {
+  border: 1px #185b19;
+  padding: 25px 50px;
+  background-color: #e1d2f2;
+  margin: 50px;
+  border-width:4px; border-style:double;
+}
+.causes > p {
+  font-size: 25px;
+  text-align: center;
+}
+.causes > ul {
+  font-size: 20px;
+}
+div.dsm {
+ border: 1px #185b19;
+ padding: 25px 50px;
+ background-color: #b8b5f5;
+ margin: 20px;
+ border-width:4px; border-style:double;
+}
+div.facts > ul > li {
+  background-color: #f1c869;
+  width: 300px;
+  height: 200px;
+  text-align: center;
+  margin: 20px;
+  display: inline-flex;
+  padding: 50px;
+  border-width:4px; border-style:double;
+}
+div.treatment {
+ border: 1px #914fe2;
+ padding: 25px 50px;
+ background-color: #fbff52;
+ margin: 20px;
+ border-width:4px; border-style:double;
+}
+div.links {
+ border: 1px #79315a;
+ padding: 25px 50px;
+ background-color: #b279e9;
+ color: white;
+ margin: 20px;
+ border-width:4px; border-style:double;
+}
+div.videos {
+ border: 1px #79315a;
+ padding: 25px 50px;
+ background-color: #65a2ab;
+ margin: 20px;
+ border-width:4px; border-style:double;
+}
+div.videos >ul > li{
+  text-align: center;
+  margin: 20px;
+  display: inline-block;
+}
